@@ -1,0 +1,122 @@
+a:link {
+    color: #ffff;
+}
+
+a:visited {
+    color: #ffff;
+    font-family: 'Sacramento', sans-serif;
+}
+
+body {
+    background-color: #E7AB9A;
+    font-family: 'Lucida Sans', monospace;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+img {
+    display: inline;
+    border-radius: 500px;
+    box-sizing: border-box;
+    background-color: #EDE9D5;
+    border: 5px solid #EDE9D5;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative; 
+    top: 10%;
+    height: 450px;
+    width: 450px
+}
+
+nav {
+    display: inline;
+    font-family: 'Sacramento', sans-serif;
+    font-size: xx-large;
+    position: absolute;
+    top: 20px;
+    right: 50px;
+}
+
+nav li {
+    padding: 30px;
+}
+
+p {
+    color: #DF7857;
+    position: relative; 
+    word-wrap:normal;    
+}
+
+.a-nav:any-link {
+    color:#617143;
+}
+
+.hello-world {
+    color:#ffff;
+    font-family: 'Sacramento', sans-serif;
+    font-size: xxx-large;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    position:relative;
+    top: 11%;
+    left: 0px;
+}
+
+.im-ariena {
+    color:#617143;
+    font-family: 'Sacramento', sans-serif;
+    font-size: xxx-large;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 12%;
+}
+
+.main-profile {
+    background-image: linear-gradient(#E7AB9A, #EDE9D5);
+    position: absolute;
+    top: 65px;
+    bottom: 0px; 
+    left: 0px;
+    right:60%
+}
+
+.nav-bar {
+    display: inline;
+    margin-left: 25px;
+}
+
+.self-intro {
+    background-image: linear-gradient(#E7AB9A, #EDE9D5);
+    position: absolute;
+    top: 65px;
+    right: 0px;
+    bottom: 0px; 
+    left: 40%;
+}
+
+.self-intro-p {
+    color: #DF7857;
+    display: inline-block;
+    position: relative; 
+    word-wrap:normal;
+    position: relative;   
+    top: 11%;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+}
+
+.title-tagline {
+    color: #617143;
+    position: relative; 
+    top: 10%;
+}
+
